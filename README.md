@@ -7,3 +7,8 @@
 -  REACT
 - JS
 - .NET 
+
+Skills:-
+<br> Programming Language- c,c++,java
+<br> Frontend Language-HTML,CSS
+<br> Scripting Language-SQL
